@@ -1,0 +1,4 @@
+#Mon Jun 10 14:42:27 ICT 2019
+base.0=D\:\\koding\\TarikSoal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
